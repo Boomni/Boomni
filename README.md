@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer in training
 --------------------------------
 
-Microbiologist transitioned to software engineering. Learning to code with ALX Africa in conjunction with Holberton tech school. Open to learning
+I'm Microbiologist transitioned into tech. Currently undergoing mentorship on Software Engineering with ALX + Holberton. Open to learning...
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [rejoiceoye1@gmail.com](mailto:rejoiceoye1@gmail.com)
-*   🧠  I'm learning C programming<a href="https://www.github.com/Boomni" target="_blank" rel="noreferrer"><img
-        src="https://img.shields.io/github/followers/Boomni?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a>
+*   🧠  Currently learning C
+<a href="https://www.github.com/Boomni" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Boomni?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a>
                   
 ### Socials
 <p align="center">
