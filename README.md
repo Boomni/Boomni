@@ -9,15 +9,20 @@ Software Engineer in training
 ---
 
 ### :woman_technologist: About Me:
-I'm Microbiologist transitioned into tech. Currently undergoing mentorship on Software Engineering with ALX + Holberton. Open to learning...
+* I'm Microbiologist transitioned into tech. 
+* Currently undergoing mentorship on Software Engineering with ALX + Holberton.
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [rejoiceoye1@gmail.com](mailto:rejoiceoye1@gmail.com)
-*   🧠  Currently learning C
+*   🧠  Currently learning C
+*   💪  Open to learning
+---
 <a href="https://www.github.com/Boomni" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Boomni?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a>
-                  
+
 ### Socials
+
+
 <p align="center">
 <a href="https://www.facebook.com/rejoice.bomy" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
