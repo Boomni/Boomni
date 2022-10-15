@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jonathan, Boomni Oye
-============================================================================================================================================
+---
 
 Software Engineer in training
---------------------------------
+---
 
+### :woman_technologist: About Me:
 I'm Microbiologist transitioned into tech. Currently undergoing mentorship on Software Engineering with ALX + Holberton. Open to learning...
 
 *   🌍  I'm based in Nigeria
