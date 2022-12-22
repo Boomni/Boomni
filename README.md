@@ -11,8 +11,7 @@ Software Engineer in training
 * I'm Microbiologist transitioned into tech. 
 * Currently undergoing mentorship on Software Engineering with ALX + Holberton.
 *   🌍  I'm based in Nigeria
-*   ✉️  You can contact me at [rejoiceoye1@gmail.com](mailto:rejoiceoye1@gmail.com)
-*   🧠  Currently learning C
+*   🧠  Currently learning C and Python
 *   💪  Open to learning
 ---
 <div align="center">
